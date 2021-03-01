@@ -9,6 +9,6 @@
     </head>
 
     <body>
-        <p>Si, funciona EL PROYECTO</p>
+        <p>Si, funciona EL PROYECTO.</p>
     </body>
 </html>
